@@ -19,7 +19,7 @@ Players can hatch eggs, grow animals, feed them, and eventually sell them for in
 
 ## Requirements
 
-- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_lib](https://github.com/CommunityOx/ox_lib)
 
 ## Installation
 
