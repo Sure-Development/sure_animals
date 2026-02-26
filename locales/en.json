@@ -1,0 +1,9 @@
+{
+  "not_friend": "Cannot view farms of players who are not your friends.",
+  "ped_on_cooldown": "The animal is on cooldown, please wait a moment. (%s seconds)",
+  "ped_is_missing_growth": "Your animal is hungry.",
+  "player_error": "A system error occurred, please notify the team (player_error).",
+  "egg_not_found": "A system error occurred, please notify the team (egg_not_found).",
+  "feed_not_found": "A system error occurred, please notify the team (feed_not_found).",
+  "ped_key_not_found": "A system error occurred, please notify the team (ped_key_not_found)."
+}

@@ -1,0 +1,12 @@
+{
+  "not_friend": "ไม่สามารถดูฟาร์มที่นอกเหนือจากเพื่อนได้",
+  "ped_on_cooldown": "สัตว์ติดคูลดาวน์กรุณารอสักครู่ (%s วินาที)",
+  "ped_is_missing_growth": "สัตว์ของคุณกำลังหิว",
+  "player_error": "ระบบเกิดข้อผิดพลาดกรุณาแจ้งทีมงาน (player_error)",
+  "egg_not_found": "ระบบเกิดข้อผิดพลาดกรุณาแจ้งทีมงาน (egg_not_found)",
+  "feed_not_found": "ระบบเกิดข้อผิดพลาดกรุณาแจ้งทีมงาน (feed_not_found)",
+  "ped_key_not_found": "ระบบเกิดข้อผิดพลาดกรุณาแจ้งทีมงาน (ped_key_not_found)",
+  "friend_request_accepted": "ผู้เล่นยอมรับคำเชิญเข้าร่วมฟาร์ม",
+  "friend_request_unaccepted": "ผู้เล่นไม่ยอมรับคำเชิญเข้าร่วมฟาร์ม",
+  "friend_has_removed": "คุณได้เลิกเป็นเพื่อนในฟาร์มกับ %s แล้ว"
+}
