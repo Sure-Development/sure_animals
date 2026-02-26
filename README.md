@@ -15,7 +15,6 @@ Players can hatch eggs, grow animals, feed them, and eventually sell them for in
 - **Friends** — Add friends and interact with their farms
 - **Multi-Framework** — Supports multiple FiveM frameworks
 - **Locales** — Built-in localization support
-- **Web UI** — Comes with a web-based interface
 - **Admin Commands** — Server commands for managing animal data
 
 ## Requirements
